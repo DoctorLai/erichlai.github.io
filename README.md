@@ -9,7 +9,7 @@ I have also achieved grade 8 in piano and grade 7 in cello.
 - [Impington Village College](https://ivc.tela.org.uk), Y7 to Y8
 
 ## Certificates and Awards
-- Gold, UK Intermediate Math Challeng 2026, [Certificate](./static/jpg/imc-2026-perse-gold.jpg)
+- Gold, UK Intermediate Math Challenge 2026, [Certificate](./static/jpg/imc-2026-perse-gold.jpg)
 - Distinction, Highest in School, Perse Coding Team Challenge Round 1, [Certificate](./static/pdf/perse-coding-challenge-round-1-2026-distinction.pdf)
 - Kangaroo, UK Junior Math Challenge 2025, [Certificate](./static/png/uk-jmc-kangaroo-2025.png)
 - Gold, UK Junior Math Challenge 2024, [Certificate](./static/png/uk-jum-gold-2024.png)
